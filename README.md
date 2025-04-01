@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B4rtunia
 - 📍 I'm from Poland
 - 👀 I’m interested in game dev
-- 🎮 I’m currently using UE5
+- 🎮 I’m currently using UE5.5
 - 🌱 I'm learning C++
 
 
